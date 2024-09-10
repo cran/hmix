@@ -1,0 +1,11 @@
+c2d3d01edf669ed4b8c8f83be46ffb70 *DESCRIPTION
+463563be3ab6e01083a0f94c3c6cbfa5 *NAMESPACE
+59ecd9a06bf7d37e02ed928ea08c9558 *NEWS.md
+219b6a0cf94819dd3ed9015486c9043d *R/dummy_set.R
+91a44fc3877c9b9a525c02c10ec20f0e *R/hmix.R
+8dec50591f1b4dae56206f95670df68a *R/main1.R
+a24fbfe9e82eb198ba95167532865ed5 *data/dummy_set.rda
+98be92b728d05d1b81f29251ba7e1548 *man/dummy_set.Rd
+e54248b0bc8194782ef910d32ee98c99 *man/hmix.Rd
+f2212952b458684530216e5519e44b00 *tests/testthat.R
+dc44af37be126624d68960b8177937e1 *tests/testthat/test.R
